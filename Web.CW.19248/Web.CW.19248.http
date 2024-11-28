@@ -1,0 +1,6 @@
+@Web.CW._19248_HostAddress = http://localhost:5224
+
+GET {{Web.CW._19248_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
