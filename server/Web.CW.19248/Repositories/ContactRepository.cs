@@ -14,7 +14,6 @@ namespace Web.CW._19248.Repositories
 
         public async Task CreateAsync(Contact entity)
         {
-            entity.Category = await _ctx.Categories.FindAsync(entity.CategoryId);
             await _ctx.Contacts.AddAsync(entity);
             await _ctx.SaveChangesAsync();
         }
@@ -36,7 +35,7 @@ namespace Web.CW._19248.Repositories
 
         public async Task<Contact> GetAsync(int id)
         {
-            return await _ctx.Contacts.Include(t => t.Category).FirstOrDefaultAsync(t => t.Id == id);
+            return await _ctx.Contacts.FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task UpdateAsync(Contact entity)

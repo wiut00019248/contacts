@@ -1,0 +1,28 @@
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p class="h3 fw-bold">View</p>
+        </div>
+    </div>
+</div>
+
+<div class="container" *ngIf="notEmpty()">
+    <div class="row">
+        <div class="col-sm-4">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" alt="" width="250" height="250">
+        </div>
+        <div class="col-sm-6">
+            <ul class="list-group">
+                <li class="list-group-item">Name: <span class="fw-bold">{{ contact.name }}</span></li>
+                <li class="list-group-item">Phone: <span class="fw-bold">{{ contact.phone }}</span></li>
+                <li class="list-group-item">Email: <span class="fw-bold">{{ contact.email }}</span></li>
+                <li class="list-group-item">Category: <span class="fw-bold">{{ category.type }}</span></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <a routerLink="/" class="btn btn-danger"><i class="fa fa-arr-all-circle=left"></i>Back</a>
+        </div>
+    </div>
+</div>

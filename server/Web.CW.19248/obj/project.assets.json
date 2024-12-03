@@ -8192,11 +8192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\Web.CW.19248\\Web.CW.19248.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Web.CW.19248.csproj",
       "projectName": "Web.CW.19248",
-      "projectPath": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\Web.CW.19248\\Web.CW.19248.csproj",
+      "projectPath": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Web.CW.19248.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\Web.CW.19248\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",

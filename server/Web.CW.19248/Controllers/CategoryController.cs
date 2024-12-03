@@ -3,8 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using Web.CW._19248.Models;
 using Web.CW._19248.Repositories;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace Web.CW._19248.Controllers
 {
     [Route("api/[controller]/[action]")]

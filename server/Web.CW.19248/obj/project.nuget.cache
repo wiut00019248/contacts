@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p/VSzd912To=",
+  "dgSpecHash": "iBz3hacXP+Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\Web.CW.19248\\Web.CW.19248.csproj",
+  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Web.CW.19248.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

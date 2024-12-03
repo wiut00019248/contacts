@@ -1,0 +1,39 @@
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p class="h3 fw-bold">Edit</p>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <form (submit)="submitEdit()">
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name</label>
+                    <input [(ngModel)]="contact.name" type="text" class="form-control" id="name" name="name" required="true" [value]="contact.name">
+                </div>
+                <div class="mb-3">
+                    <label for="phone" class="form-label">Phone</label>
+                    <input [(ngModel)]="contact.phone" type="text" class="form-control" id="phone" name="phone" required="true" [value]="contact.phone">
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input [(ngModel)]="contact.email" type="email" class="form-control" id="email" name="email" required="true" [value]="contact.email">
+                </div>
+                <div class="mb-3">
+                    <label for="type" class="form-label">Type</label>
+                    <select [(ngModel)]="contact.categoryId" name="categoryId" id="" class="form-control" *ngIf="categories.length > 0" required="true" [value]="contact.categoryId">
+                        <option value="">Select type</option>
+                        <option [value]="category.id" *ngFor="let category of categories">{{ category.type }}</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <input type="submit" class="btn btn-success" value="Edit">
+                    <a routerLink="/" class="btn btn-dark ms-2">Close</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

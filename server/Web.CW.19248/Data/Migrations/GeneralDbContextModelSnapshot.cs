@@ -8,7 +8,7 @@ using Web.CW._19248.Data;
 
 #nullable disable
 
-namespace Web.CW._19248.Data.Migrations
+namespace Web.CW._19248.Migrations
 {
     [DbContext(typeof(GeneralDbContext))]
     partial class GeneralDbContextModelSnapshot : ModelSnapshot
@@ -64,18 +64,7 @@ namespace Web.CW._19248.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CategoryId");
-
                     b.ToTable("Contacts");
-                });
-
-            modelBuilder.Entity("Web.CW._19248.Models.Contact", b =>
-                {
-                    b.HasOne("Web.CW._19248.Models.Category", "Category")
-                        .WithMany()
-                        .HasForeignKey("CategoryId");
-
-                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }
