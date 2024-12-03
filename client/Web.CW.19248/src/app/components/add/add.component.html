@@ -1,13 +1,13 @@
-<div class="container">
+<div class="container mt-4">
     <div class="row">
-        <div class="col">
-            <p class="h3 fw-bold">Add</p>
+        <div class="col d-flex justify-content-center">
+            <p class="h2 fw-bold">Add</p>
         </div>
     </div>
 </div>
 
-<div class="container">
-    <div class="row">
+<div class="container mt-4">
+    <div class="row d-flex justify-content-center">
         <div class="col-md-6">
             <form (submit)="createSubmit()">
                 <div class="mb-3">
@@ -29,7 +29,7 @@
                         <option [value]="category.id" *ngFor="let category of categories">{{ category.type }}</option>
                     </select>
                 </div>
-                <div class="mb-3">
+                <div class="my-4">
                     <input type="submit" class="btn btn-success" value="Create">
                     <a routerLink="/" class="btn btn-dark ms-2">Close</a>
                 </div>

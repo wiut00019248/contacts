@@ -1,14 +1,14 @@
 import { Component, inject } from '@angular/core';
 import { ContactService } from '../../services/contact.service';
 import { Contact } from '../../models/contact';
-import { ActivatedRoute, RouterLink } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
 import { NgIf } from '@angular/common';
 import { Category } from '../../models/category';
 import { CategoryService } from '../../services/category.service';
 
 @Component({
   selector: 'app-view',
-  imports: [NgIf, RouterLink],
+  imports: [NgIf],
   templateUrl: './view.component.html',
   styleUrl: './view.component.css'
 })
