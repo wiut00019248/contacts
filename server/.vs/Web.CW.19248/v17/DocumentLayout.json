@@ -1,57 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\web.cw.19248.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\web.cw.19248.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\mapping\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\mapping\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\mapping\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\data\\migrations\\20241203103834_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\data\\migrations\\20241203103834_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\data\\migrations\\20241203103834_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\web.cw.19248\\server\\web.cw.19248\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\contacts\\server\\web.cw.19248\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{55A8935C-6627-432B-8874-72AE87E34B58}|Web.CW.19248\\Web.CW.19248.csproj|solutionrelative:web.cw.19248\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,160 +74,185 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Web.CW.19248",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Web.CW.19248.csproj",
+              "RelativeDocumentMoniker": "Web.CW.19248\\Web.CW.19248.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Web.CW.19248.csproj",
+              "RelativeToolTip": "Web.CW.19248\\Web.CW.19248.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T11:52:54.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ContactDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Dtos\\ContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Dtos\\ContactDto.cs",
               "RelativeDocumentMoniker": "Web.CW.19248\\Dtos\\ContactDto.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Dtos\\ContactDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Dtos\\ContactDto.cs",
               "RelativeToolTip": "Web.CW.19248\\Dtos\\ContactDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:35:54.413Z"
+              "WhenOpened": "2024-12-04T03:35:54.413Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Dtos\\CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Dtos\\CategoryDto.cs",
               "RelativeDocumentMoniker": "Web.CW.19248\\Dtos\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Dtos\\CategoryDto.cs",
               "RelativeToolTip": "Web.CW.19248\\Dtos\\CategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:36:18.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Web.CW.19248\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Web.CW.19248\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAuwEIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:53:39.972Z"
+              "WhenOpened": "2024-12-04T03:36:18.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Web.CW.19248\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Web.CW.19248\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:53:39.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Web.CW.19248\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Models\\Category.cs",
               "RelativeToolTip": "Web.CW.19248\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T10:35:46.415Z"
+              "WhenOpened": "2024-12-03T10:35:46.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Controllers\\ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "Web.CW.19248\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Controllers\\ContactController.cs",
               "RelativeToolTip": "Web.CW.19248\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA3wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T09:53:41.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Mapping.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Mapping\\Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Mapping\\Mapping.cs",
               "RelativeDocumentMoniker": "Web.CW.19248\\Mapping\\Mapping.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Mapping\\Mapping.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Mapping\\Mapping.cs",
               "RelativeToolTip": "Web.CW.19248\\Mapping\\Mapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:40:35.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "Web.CW.19248\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Models\\Contact.cs",
-              "RelativeToolTip": "Web.CW.19248\\Models\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:26:51.944Z"
+              "WhenOpened": "2024-12-04T03:40:35.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Web.CW.19248\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Web.CW.19248\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Web.CW.19248\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Models\\Contact.cs",
+              "RelativeToolTip": "Web.CW.19248\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T17:51:34.744Z"
+              "WhenOpened": "2024-12-03T09:26:51.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ContactRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Repositories\\ContactRepository.cs",
-              "RelativeDocumentMoniker": "Web.CW.19248\\Repositories\\ContactRepository.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Repositories\\ContactRepository.cs",
-              "RelativeToolTip": "Web.CW.19248\\Repositories\\ContactRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowBgAAAANAAAAAAAAAA==",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Web.CW.19248\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Web.CW.19248\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:28:21.405Z"
+              "WhenOpened": "2024-12-03T17:51:34.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Web.CW.19248\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "Web.CW.19248\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAuwAgAAAAyAAAAAAAAAA==",
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Web.CW.19248\\Repositories\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "Web.CW.19248\\Repositories\\ContactRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowBgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:58:49.416Z"
+              "WhenOpened": "2024-12-03T09:28:21.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Program.cs",
-              "RelativeDocumentMoniker": "Web.CW.19248\\Program.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Program.cs",
-              "RelativeToolTip": "Web.CW.19248\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Web.CW.19248\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Web.CW.19248\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:40:36.215Z"
+              "WhenOpened": "2024-12-03T09:58:49.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "20241203103834_Init.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Data\\Migrations\\20241203103834_Init.cs",
-              "RelativeDocumentMoniker": "Web.CW.19248\\Data\\Migrations\\20241203103834_Init.cs",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Data\\Migrations\\20241203103834_Init.cs",
-              "RelativeToolTip": "Web.CW.19248\\Data\\Migrations\\20241203103834_Init.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAYwCsAAABHAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Program.cs",
+              "RelativeDocumentMoniker": "Web.CW.19248\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Program.cs",
+              "RelativeToolTip": "Web.CW.19248\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T10:38:35.297Z"
+              "WhenOpened": "2024-12-03T09:40:36.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "20241203103834_Init.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Data\\Migrations\\20241203103834_Init.cs",
+              "RelativeDocumentMoniker": "Web.CW.19248\\Data\\Migrations\\20241203103834_Init.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\Data\\Migrations\\20241203103834_Init.cs",
+              "RelativeToolTip": "Web.CW.19248\\Data\\Migrations\\20241203103834_Init.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwCsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:38:35.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\appsettings.json",
               "RelativeDocumentMoniker": "Web.CW.19248\\appsettings.json",
-              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\contacts\\server\\Web.CW.19248\\appsettings.json",
               "RelativeToolTip": "Web.CW.19248\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-03T09:39:48.347Z"
+              "WhenOpened": "2024-12-03T09:39:48.347Z",
+              "EditorCaption": ""
             }
           ]
         }

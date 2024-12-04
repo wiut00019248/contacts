@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Web.CW.19248.csproj": {}
+    "C:\\Users\\Пользователь\\Desktop\\contacts\\server\\Web.CW.19248\\Web.CW.19248.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Web.CW.19248.csproj": {
+    "C:\\Users\\Пользователь\\Desktop\\contacts\\server\\Web.CW.19248\\Web.CW.19248.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Web.CW.19248.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\contacts\\server\\Web.CW.19248\\Web.CW.19248.csproj",
         "projectName": "Web.CW.19248",
-        "projectPath": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\Web.CW.19248.csproj",
+        "projectPath": "C:\\Users\\Пользователь\\Desktop\\contacts\\server\\Web.CW.19248\\Web.CW.19248.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\source\\repos\\Web.CW.19248\\server\\Web.CW.19248\\obj\\",
+        "outputPath": "C:\\Users\\Пользователь\\Desktop\\contacts\\server\\Web.CW.19248\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,8 +26,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -43,8 +43,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -52,21 +52,21 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[6.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

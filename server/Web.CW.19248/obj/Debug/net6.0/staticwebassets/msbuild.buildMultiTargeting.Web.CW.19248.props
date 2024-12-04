@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Web.CW.19248.props" />
+</Project>
