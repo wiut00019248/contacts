@@ -6,42 +6,42 @@ namespace Web.CW._19248.Repositories
 {
     public class ContactRepository : IRepository<Contact>
     {
-        private readonly GeneralDbContext _ctx;
+        private readonly GeneralDbContext _context;
         public ContactRepository(GeneralDbContext context)
         {
-            _ctx = context;
+            _context = context;
         }
 
         public async Task CreateAsync(Contact entity)
         {
-            await _ctx.Contacts.AddAsync(entity);
-            await _ctx.SaveChangesAsync();
+            await _context.Contacts.AddAsync(entity);
+            await _context.SaveChangesAsync();
         }
 
         public async Task DeleteAsync(int id)
         {
-            var contact = await _ctx.Contacts.FindAsync(id);
+            var contact = await _context.Contacts.FindAsync(id);
             if (contact != null)
             {
-                _ctx.Contacts.Remove(contact);
-                await _ctx.SaveChangesAsync();
+                _context.Contacts.Remove(contact);
+                await _context.SaveChangesAsync();
             }
         }
 
         public async Task<IEnumerable<Contact>> GetAllAsync()
         {
-            return await _ctx.Contacts.ToListAsync();
+            return await _context.Contacts.ToListAsync();
         }
 
         public async Task<Contact> GetAsync(int id)
         {
-            return await _ctx.Contacts.FirstOrDefaultAsync(x => x.Id == id);
+            return await _context.Contacts.FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task UpdateAsync(Contact entity)
         {
-            _ctx.Entry(entity).State = EntityState.Modified;
-            await _ctx.SaveChangesAsync();
+            _context.Entry(entity).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
         }
     }
 }

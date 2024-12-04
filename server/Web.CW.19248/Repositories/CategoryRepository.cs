@@ -6,42 +6,42 @@ namespace Web.CW._19248.Repositories
 {
     public class CategoryRepository : IRepository<Category>
     {
-        private readonly GeneralDbContext _ctx;
+        private readonly GeneralDbContext _context;
         public CategoryRepository(GeneralDbContext context)
         {
-            _ctx = context;
+            _context = context;
         }
 
         public async Task CreateAsync(Category entity)
         {
-            await _ctx.Categories.AddAsync(entity);
-            await _ctx.SaveChangesAsync();
+            await _context.Categories.AddAsync(entity);
+            await _context.SaveChangesAsync();
         }
 
         public async Task DeleteAsync(int id)
         {
-            var category = await _ctx.Categories.FindAsync(id);
+            var category = await _context.Categories.FindAsync(id);
             if (category != null)
             {
-                _ctx.Categories.Remove(category);
-                await _ctx.SaveChangesAsync();
+                _context.Categories.Remove(category);
+                await _context.SaveChangesAsync();
             }
         }
 
         public async Task<IEnumerable<Category>> GetAllAsync()
         {
-            return await _ctx.Categories.ToListAsync();
+            return await _context.Categories.ToListAsync();
         }
 
         public async Task<Category> GetAsync(int id)
         {
-            return await _ctx.Categories.FindAsync(id);
+            return await _context.Categories.FindAsync(id);
         }
 
         public async Task UpdateAsync(Category entity)
         {
-            _ctx.Entry(entity).State = EntityState.Modified;
-            await _ctx.SaveChangesAsync();
+            _context.Entry(entity).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
         }
     }
 }

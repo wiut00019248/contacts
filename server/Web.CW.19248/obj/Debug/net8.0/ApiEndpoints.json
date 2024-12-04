@@ -8,8 +8,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "cat",
-        "Type": "Web.CW._19248.Models.Category",
+        "Name": "categoryDto",
+        "Type": "Web.CW._19248.Dtos.CategoryDto",
         "IsRequired": true
       }
     ],
@@ -39,17 +39,7 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Web.CW._19248.Models.Category, Web.CW.19248, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Web.CW._19248.Controllers.CategoryController",
@@ -76,8 +66,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "cat",
-        "Type": "Web.CW._19248.Models.Category",
+        "Name": "categoryDto",
+        "Type": "Web.CW._19248.Dtos.CategoryDto",
         "IsRequired": true
       }
     ],
@@ -92,8 +82,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "contact",
-        "Type": "Web.CW._19248.Models.Contact",
+        "Name": "contactDto",
+        "Type": "Web.CW._19248.Dtos.ContactDto",
         "IsRequired": true
       }
     ],
@@ -138,6 +128,16 @@
   },
   {
     "ContainingType": "Web.CW._19248.Controllers.ContactController",
+    "Method": "GetAll",
+    "RelativePath": "api/Contact/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.CW._19248.Controllers.ContactController",
     "Method": "GetContact",
     "RelativePath": "api/Contact/GetContact/{id}",
     "HttpMethod": "GET",
@@ -173,26 +173,6 @@
   },
   {
     "ContainingType": "Web.CW._19248.Controllers.ContactController",
-    "Method": "GetContactDatabase",
-    "RelativePath": "api/Contact/GetContactDatabase",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Web.CW._19248.Models.Contact, Web.CW.19248, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Web.CW._19248.Controllers.ContactController",
     "Method": "UpdateContact",
     "RelativePath": "api/Contact/UpdateContact/{id}",
     "HttpMethod": "PUT",
@@ -200,8 +180,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "contact",
-        "Type": "Web.CW._19248.Models.Contact",
+        "Name": "contactDto",
+        "Type": "Web.CW._19248.Dtos.ContactDto",
         "IsRequired": true
       },
       {

@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Web.CW._19248.Data;
+using Web.CW._19248.Dtos;
 using Web.CW._19248.Models;
 using Web.CW._19248.Repositories;
 
@@ -16,18 +17,22 @@ namespace Web.CW._19248.Controllers
     [ApiController]
     public class ContactController : ControllerBase
     {
-        private readonly IRepository<Contact> _repo;
+        private readonly IRepository<Contact> _repository;
+        private readonly IMapper _mapper;
 
-        public ContactController(IRepository<Contact> repo)
+        public ContactController(IRepository<Contact> repository, IMapper mapper)
         { 
-            _repo = repo;
+            _repository = repository;
+            _mapper = mapper;
         }
 
         // GET: api/Contact
         [HttpGet]
-        public async Task<IEnumerable<Contact>> GetContactDatabase()
+        public async Task<IActionResult> GetAll()
         {
-            return await _repo.GetAllAsync();
+            var contacts = await _repository.GetAllAsync();
+            var contactsDto = _mapper.Map<IEnumerable<ContactDto>>(contacts);
+            return Ok(contactsDto);
         }
 
         // GET: api/Contact/5
@@ -36,27 +41,34 @@ namespace Web.CW._19248.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<IActionResult> GetContact(int id)
         {
-            var contact = await _repo.GetAsync(id);
-            return contact == null ? NotFound() : Ok(contact);
+            var contact = await _repository.GetAsync(id);
+            if (contact == null)
+            {
+                return NotFound();
+            }
+            var contactDto = _mapper.Map<ContactDto>(contact);
+            return Ok(contactDto);
+        }
+
+        // POST: api/Contact
+        [HttpPost]
+        [ProducesResponseType(StatusCodes.Status201Created)]
+        public async Task<IActionResult> CreateContact(ContactDto contactDto)
+        {
+            var contact = _mapper.Map<Contact>(contactDto);
+            await _repository.CreateAsync(contact);
+            return Ok(contact);
         }
 
         // PUT: api/Contact/5
         [HttpPut("{id}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult> UpdateContact(Contact contact)
+        public async Task<IActionResult> UpdateContact(ContactDto contactDto)
         {
-            await _repo.UpdateAsync(contact);
+            var contact = _mapper.Map<Contact>(contactDto);
+            await _repository.UpdateAsync(contact);
             return NoContent();
-        }
-
-        // POST: api/Contact
-        [HttpPost]
-        [ProducesResponseType(StatusCodes.Status201Created)]
-        public async Task<IActionResult> CreateContact(Contact contact)
-        {
-            await _repo.CreateAsync(contact);
-            return Ok(contact);
         }
 
         // DELETE: api/Contact/5
@@ -65,7 +77,12 @@ namespace Web.CW._19248.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<IActionResult> DeleteContact(int id)
         {
-            await _repo.DeleteAsync(id);
+            var contact = await _repository.GetAsync(id);
+            if (contact == null)
+            {
+                return NotFound();
+            }
+            await _repository.DeleteAsync(id);
             return NoContent();
         }
     }

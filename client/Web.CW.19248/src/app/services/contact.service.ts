@@ -11,7 +11,7 @@ export class ContactService {
   constructor(private client: HttpClient) { }
 
   public getAllContacts(): Observable<Contact[]> {
-    let url = `${this.serverUrl}/GetContactDatabase`;
+    let url = `${this.serverUrl}/GetAll`;
     return this.client.get<Contact[]>(url);
   };
 

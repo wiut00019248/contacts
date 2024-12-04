@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Web.CW._19248.Data;
+using Web.CW._19248.Mapping;
 using Web.CW._19248.Models;
 using Web.CW._19248.Repositories;
 
@@ -15,7 +16,7 @@ builder.Services.AddCors(options =>
 });
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddAutoMapper(typeof(Mapping));
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
