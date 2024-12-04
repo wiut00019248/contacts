@@ -1,16 +1,11 @@
 ## This application was developed for Web Application module, as coursework portfolio project @ WIUT by student ID: 00019248
 
 ### Project
-Calculation: 19248 % 20 = 8
-Name: Contact Manager App
+- Calculation: 19248 % 20 = 8
+- Name: Contact Manager
 
 ### Demo
 Link to the demo video: 
-
-### Features
-- Simple user registeration and login
-- Add favorite movies and TV shows with personal comments or reviews
-- View and explore other users' movie recommendations and reviews
 
 ### Technologies
 #### Frontend
