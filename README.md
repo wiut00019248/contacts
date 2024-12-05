@@ -5,7 +5,7 @@
 - Name: Contact Manager
 
 ### Demo
-Link to the demo video: 
+Link to the demo video [here](https://youtu.be/ps0_uTQVFbM)
 
 ### Technologies
 #### Frontend
@@ -21,7 +21,7 @@ Link to the demo video:
 
 ### Requirements
 - Angular CLI
-- .NET Core SDK
+- .NET6 Core SDK
 - Visual Studio
 - Visual Studio Code
 - SQL Server Management Studio
@@ -42,5 +42,5 @@ git clone https://github.com/wiut00019248/contacts.git
 1. Open the app with Visual Studio Code
 2. Run the following command using terminal:
     - ```npm install```
-    - ```ng serve```
+    - ```npm start```
 3. In Chrome, go to http://localhost:4200/
